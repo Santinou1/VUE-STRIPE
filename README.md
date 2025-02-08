@@ -50,7 +50,14 @@ npm run server
 npm run dev
 ```
 
-3. Abrir el navegador en `http://localhost:5173`
+## Testeo de pasarela Stripe.
+
+Datos de la tarjeta mock que hay que utlizar son :
+
+card : 4242 4242 4242 4242
+cvv: random
+date: random
+
 
 ## Funcionalidades
 
